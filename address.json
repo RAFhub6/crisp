@@ -1,5 +1,5 @@
 {
-  "SEND": "01a0o1o60"
-  "RECIEVE": "11a0a1o60"
+  "SEND": 01110011
+  "RECIEVE": 01110010
   "NAME": "adm"
 }
